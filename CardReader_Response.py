@@ -14,8 +14,8 @@ def file_is_empty(path):
 global json_data
 nfo = "32814e24"
 a = 4
-account_sid = "ACf63cb15b6b337a1fdd5205c0fe74798d"
-auth_token  = "29e6213ee69da90ea4867ced037193f4"
+account_sid = "SID"
+auth_token  = "AUTHTOKEN"
 nfo = " "
 nfo1 = " "
 sendto = " "
